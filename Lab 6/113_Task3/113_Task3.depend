@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1728296918 source:c:\220041113 cse 4302\lab 5\113_task3\celcius.cpp
+	"Celcius.h"
+	"Fahrenheit.h"
+	"Kelvin.h"
+	<bits/stdc++.h>
+
+1728297266 c:\220041113 cse 4302\lab 5\113_task3\celcius.h
+	<bits/stdc++.h>
+
+1728297266 c:\220041113 cse 4302\lab 5\113_task3\fahrenheit.h
+	<bits/stdc++.h>
+
+1728297266 c:\220041113 cse 4302\lab 5\113_task3\kelvin.h
+	<bits/stdc++.h>
+
+1728296918 source:c:\220041113 cse 4302\lab 5\113_task3\fahrenheit.cpp
+	"Celcius.h"
+	"Fahrenheit.h"
+	"Kelvin.h"
+	<bits/stdc++.h>
+
+1728296939 source:c:\220041113 cse 4302\lab 5\113_task3\kelvin.cpp
+	"Celcius.h"
+	"Fahrenheit.h"
+	"Kelvin.h"
+	<bits/stdc++.h>
+
+1728296954 source:c:\220041113 cse 4302\lab 5\113_task3\main.cpp
+	"Celcius.h"
+	"Fahrenheit.h"
+	"Kelvin.h"
+	<bits/stdc++.h>
+
+1728297266 source:c:\220041113 cse 4302\lab 6\113_task3\celcius.cpp
+	"Celcius.h"
+	"Fahrenheit.h"
+	"Kelvin.h"
+	<bits/stdc++.h>
+
+1728297266 c:\220041113 cse 4302\lab 6\113_task3\celcius.h
+	<bits/stdc++.h>
+
+1728297266 c:\220041113 cse 4302\lab 6\113_task3\fahrenheit.h
+	<bits/stdc++.h>
+
+1728297266 c:\220041113 cse 4302\lab 6\113_task3\kelvin.h
+	<bits/stdc++.h>
+
+1728297266 source:c:\220041113 cse 4302\lab 6\113_task3\fahrenheit.cpp
+	"Celcius.h"
+	"Fahrenheit.h"
+	"Kelvin.h"
+	<bits/stdc++.h>
+
+1728297266 source:c:\220041113 cse 4302\lab 6\113_task3\kelvin.cpp
+	"Celcius.h"
+	"Fahrenheit.h"
+	"Kelvin.h"
+	<bits/stdc++.h>
+
