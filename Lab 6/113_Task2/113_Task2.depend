@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728392852 source:c:\220041113 cse 4302\lab 6\113_task2\main.cpp
+	"Coordinate.h"
+	<bits/stdc++.h>
+
+1728392878 c:\220041113 cse 4302\lab 6\113_task2\coordinate.h
+	<bits/stdc++.h>
+
+1728393670 source:c:\220041113 cse 4302\lab 6\113_task2\coordinate.cpp
+	"Coordinate.h"
+	<bits/stdc++.h>
+

@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1731297255 source:c:\users\farhan\desktop\lab8\113_task1\loanaccount.cpp
+	"LoanAccount.h"
+	<bits/stdc++.h>
+
+1731301158 source:c:\users\farhan\desktop\lab8\113_task1\main.cpp
+	"Account.h"
+	"CurrentAccount.h"
+	"SavingsAccount.h"
+	"MonthlyDepositScheme.h"
+	"LoanAccount.h"
+	"TwoYearMDS.h"
+	"FiveYearMDS.h"
+	"InitialDepositMDS.h"
+	<bits/stdc++.h>
+
+1731296316 source:c:\users\farhan\desktop\lab8\113_task1\account.cpp
+	"Account.h"
+	<bits/stdc++.h>
+
+1731296316 c:\users\farhan\desktop\lab8\113_task1\account.h
+	<bits/stdc++.h>
+
+1731297109 source:c:\users\farhan\desktop\lab8\113_task1\monthlydepositscheme.cpp
+	"MonthlyDepositScheme.h"
+	<bits/stdc++.h>
+
+1731297082 c:\users\farhan\desktop\lab8\113_task1\monthlydepositscheme.h
+	"Account.h"
+	<bits/stdc++.h>
+
+1731297215 source:c:\users\farhan\desktop\lab8\113_task1\savingsaccount.cpp
+	"SavingsAccount.h"
+	<bits/stdc++.h>
+
+1731301158 c:\users\farhan\desktop\lab8\113_task1\savingsaccount.h
+	"Account.h"
+	<bits/stdc++.h>
+
+1731300240 c:\users\farhan\desktop\lab8\113_task1\loanaccount.h
+	"Account.h"
+	<bits/stdc++.h>
+
+1731298764 source:c:\users\farhan\desktop\lab8\113_task1\twoyearmds.cpp
+	"TwoYearMDS.h"
+	<bits/stdc++.h>
+
+1731298764 c:\users\farhan\desktop\lab8\113_task1\twoyearmds.h
+	"MonthlyDepositScheme.h"
+	<bits/stdc++.h>
+
+1731298764 source:c:\users\farhan\desktop\lab8\113_task1\fiveyearmds.cpp
+	"FiveYearMDS.h"
+	<bits/stdc++.h>
+
+1731298764 c:\users\farhan\desktop\lab8\113_task1\fiveyearmds.h
+	"MonthlyDepositScheme.h"
+	<bits/stdc++.h>
+
+1731299227 source:c:\users\farhan\desktop\lab8\113_task1\initialdepositmds.cpp
+	"InitialDepositMDS.h"
+	<bits/stdc++.h>
+
+1731299209 c:\users\farhan\desktop\lab8\113_task1\initialdepositmds.h
+	"MonthlyDepositScheme.h"
+	<bits/stdc++.h>
+
+1731300843 c:\users\farhan\desktop\lab8\113_task1\currentaccount.h
+	"Account.h"
+	<bits/stdc++.h>
+
+1731300817 source:c:\users\farhan\desktop\lab8\113_task1\currentaccount.cpp
+	"CurrentAccount.h"
+	<bits/stdc++.h>
+

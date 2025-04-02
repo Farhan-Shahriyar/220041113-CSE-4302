@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1728293857 source:c:\220041113 cse 4302\lab 5\113_task1\counter.cpp
+	"Counter.h"
+	<bits/stdc++.h>
+
+1728293573 c:\220041113 cse 4302\lab 5\113_task1\counter.h
+	<bits/stdc++.h>
+

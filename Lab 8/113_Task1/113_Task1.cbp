@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="113_Task1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/113_Task1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/113_Task1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Account.cpp" />
+		<Unit filename="Account.h" />
+		<Unit filename="CurrentAccount.cpp" />
+		<Unit filename="CurrentAccount.h" />
+		<Unit filename="FiveYearMDS.cpp" />
+		<Unit filename="FiveYearMDS.h" />
+		<Unit filename="InitialDepositMDS.cpp" />
+		<Unit filename="InitialDepositMDS.h" />
+		<Unit filename="LoanAccount.cpp" />
+		<Unit filename="LoanAccount.h" />
+		<Unit filename="MonthlyDepositScheme.cpp" />
+		<Unit filename="MonthlyDepositScheme.h" />
+		<Unit filename="SavingsAccount.cpp" />
+		<Unit filename="SavingsAccount.h" />
+		<Unit filename="TwoYearMDS.cpp" />
+		<Unit filename="TwoYearMDS.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
